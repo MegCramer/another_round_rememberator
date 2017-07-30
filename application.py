@@ -27,11 +27,11 @@ def respond():
         resp.sms("un-rememberating our conversation")
         return str(resp)
 
-    elif session.get('seen_retry') == True
+    elif session.get('seen_retry') == True:
         # person is submitting another search term
         session['seen_episode'] == False
 
-    elif session.get('seen_episode') == True
+    elif session.get('seen_episode') == True:
         # person is saying whether or not it was the right episode
         session['seen_retry'] = True
 
