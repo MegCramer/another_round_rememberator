@@ -4,7 +4,7 @@ import random
 from collections import defaultdict, Counter
 
 def find_episode(search_input):
-    with open('data.csv', 'rU') as f:
+    with open('data.csv') as f:
         csvReader = csv.DictReader(f)
 
         for episode in csvReader:
@@ -36,7 +36,7 @@ def find_episode(search_input):
 #         #     return find_episode(match)
 
 def return_all_matches(search_input):
-    with open('data.csv', 'rU') as f:
+    with open('data.csv') as f:
         csvReader = csv.DictReader(f)
         matches = []
 
@@ -48,7 +48,9 @@ def return_all_matches(search_input):
 
         return matches
 
-# if __name__ == '__main__':
+if __name__ == '__main__':
+    episode = find_episode('Gene Demby')
+    print(episode)
 
     # find_random_match = return_all_matches(sys.argv[1])
     # print random.choice(find_random_match)
