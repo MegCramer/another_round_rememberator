@@ -167,6 +167,4 @@ def respond():
 
 if __name__ == "__main__":
 
-    application.secret_key = config.CONFIG_VARS['SECRET_KEY']
-    debug = True if config.CONFIG_VARS['DEBUG'] == 'True' else False
     application.run(debug=debug, host='0.0.0.0')
