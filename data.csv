@@ -1,1 +1,111 @@
-ep_num,ep_title,ep_air_date,ep_url,ep_guest1,ep_round_t,ep_round_h1,Episode 1: Unlearning (with Durga Chew-Bose),3/24/15,https://megaphone.link/BUZ1410984301,Durga Chew-Bose,Rae Sremmurd,Harriet Tubman2,Episode 2: You Know White People (with Jazmine Hughes),3/26/15,https://megaphone.link/BUZ4188033034,Jazmine Hughes,Stephen Colbert,Constance Wu
+ep_num,ep_title,ep_air_date,ep_guest1,ep_guest2,ep_joke,ep_joke_topic,ep_smi,ep_smi_topic,ep_round_t,ep_round_h,ep_url
+1,Episode 1: Unlearning (with Durga Chew-Bose),3/24/15,Durga Chew-Bose,n/a,joke,a ham bush,n/a,n/a,Rae Sremmurd,Harriet Tubman,https://megaphone.link/BUZ1410984301
+2,Episode 2: You Know White People (with Jazmine Hughes),3/26/15,Jazmine Hughes,n/a,n/a,n/a,n/a,n/a,Stephen Colbert,Constance Wu,https://megaphone.link/BUZ4188033034
+3,"Episode 3: Oh, the Racism! (with Issa Rae)",3/31/15,Issa Rae,n/a,joke,peanuts,n/a,n/a,Kendrick Lamar,Bob's Burgers,https://megaphone.link/BUZ8440265571
+4,Episode 4: A Podcast of One's Own (with Gene Demby),4/7/15,Gene Demby,n/a,joke,a parrot and an affair,n/a,n/a,Fake glasses-wearers,Every glasses-wearer,https://megaphone.link/BUZ3970861481
+5,Episode 5: Young East African Girl (with Hannah Giorgis),4/14/15,Hannah Giorgis,n/a,n/a,n/a,n/a,n/a,FLOTUS Black Girls Rock,Chance's Arthur Theme,https://megaphone.link/BUZ8247594646
+6,Episode 6: Lit Like Bic (with Desus Nice),4/21/15,Desus,n/a,n/a,n/a,n/a,n/a,No Flex Zone baby,Veep,https://megaphone.link/BUZ3886407561
+7,Episode 7: Living in America,4/28/15,n/a,n/a,joke,nuns,n/a,n/a,Nail technicians,Veep (take 2),https://megaphone.link/BUZ3410638409
+8,Episode 8: Shmoney For The Ancestors (with Rachel Kaadzi Ghansah),5/5/15,Rachel Kaadzi-Ghansah,n/a,n/a,n/a,n/a,n/a,Juvie / Back That Azz Up,J.Lo / The Boy Next Door,https://megaphone.link/BUZ5339387599
+9,Episode 9: You're Gonna Be a Boss One Day (with Kaya Thomas),5/12/15,Kaya Thomas,n/a,n/a,n/a,n/a,n/a,"Louisville, KY",Fault In Our Stars,https://megaphone.link/BUZ6219877392
+10,Episode 10: You Tickled Whitney Houston?! (with Brandy),5/19/15,Brandy,n/a,n/a,n/a,n/a,n/a,Amel Larrieux,ice cream sandwiches,https://megaphone.link/BUZ7637323270
+11,Episode 11: Bob Loblaw (with Chirlane McCray),5/26/15,Chirlane McCray,n/a,joke,a caterpillar,n/a,n/a,"Sia ""Elastic Heart""",Hammocks,https://megaphone.link/BUZ3518504531
+12,Episode 12: Casual Negro Spirituals (with Jean Grae),6/2/15,Jean Grae,n/a,n/a,n/a,n/a,n/a,FKA Twigs,Nicki Minaj,https://megaphone.link/BUZ5320621665
+13,Episode 13: Another Round LIVE! (with Roxane Gay),6/9/15,Roxane Gay,n/a,joke,a cat scan,n/a,n/a,Female hyenas,Herself,https://megaphone.link/BUZ7066997854
+14,Episode 14: Multitudity (with Tiq Milan),6/16/15,Tiq Milan,n/a,joke,a punch line,n/a,n/a,David Alan Grier,The Office,https://megaphone.link/BUZ5881329720
+15,Episode 15: Crush That Rage Into a Diamond (with Jay Smooth),6/23/15,Jay Smooth,n/a,joke,a Christian bear,n/a,n/a,I'm The Map,Danity Kane / Lemonade,https://megaphone.link/BUZ2100489702
+16,Episode 16: Another Read (with Crissle West),6/30/15,Crissle,n/a,n/a,n/a,n/a,n/a,Obama / N-Word,3/12 Minutes Doc,https://megaphone.link/BUZ3981220734
+17,Episode 17: Caribbean Vibez (with Stacy-Marie Ishmael),7/7/15,Stacy-Marie Ishmael,n/a,n/a,n/a,Y,n/a,Bad Boy Records,Emeka,https://megaphone.link/BUZ2086358854
+bonus_1,a bonus Episode: Delirious Dispatches From Essence Fest 2015,7/10/15,n/a,n/a,n/a,n/a,n/a,n/a,the city of new orleans,n/a,https://megaphone.link/BUZ9428747021
+shot_1,Shot #1: The N-Word,7/14/15,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,https://megaphone.link/BUZ8342067109
+shot_2,Shot #2: Feminist vs Meninist,7/21/15,n/a,n/a,joke,a snail and a turtle,n/a,n/a,n/a,n/a,https://megaphone.link/BUZ7217757872
+18,Episode 18: Unstoppable (with Lianne La Havas),7/28/15,Lianne La Havas,n/a,n/a,n/a,n/a,n/a,Her mom,Teen soccer players,https://megaphone.link/BUZ6272999433
+19,Episode 19: Was That a Microaggression or Just Tuesday? (with Audie Cornish),8/4/15,Audie Cornish,n/a,n/a,n/a,n/a,n/a,Amandla Stenberg,Disposable cameras,https://megaphone.link/BUZ3494391912
+20,Episode 20: Peak Blackness (with Rembert Browne),8/11/15,Rembert Browne,n/a,n/a,n/a,n/a,n/a,the pod squad,Tig Notaro,https://megaphone.link/BUZ2672162466
+21,Episode 21: The Reverse Jackie Robinson (with Chris Hayes),8/18/15,Chris Hayes,n/a,n/a,n/a,Y,raises,crocheting / Alanna Okun,a bra that actually fits,https://megaphone.link/BUZ9040802615
+22,Episode 22: A Dude Named Hot Sauce (with Yassir Lester),8/25/15,Yassir Lester,n/a,n/a,n/a,n/a,n/a,anyone living w/ anxiety,candles,https://megaphone.link/BUZ7883146772
+23,Episode 23: The Audacity of Despair (with David Simon),9/1/15,David Simon,n/a,n/a,n/a,n/a,n/a,Flavor of Love universe,Carly Slay Jepsen,https://megaphone.link/BUZ9197054096
+shot_3,Shot #3: Anxiety,9/8/15,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,https://megaphone.link/BUZ5934191108
+24,Episode 24: Ida Bae Wells (with Nikole Hannah-Jones),9/15/15,Nikole Hannah-Jones,n/a,n/a,n/a,n/a,n/a,hookah,Tony Hawk game soundtracks,https://megaphone.link/BUZ6747722361
+25,Episode 25: Stop Telling Women To Smile (with Tatyana Fazlalizadeh),9/22/15,Tatyana Fazlalizadeh,n/a,n/a,n/a,n/a,n/a,Gil Scott-Heron song,Lion King 2 soundtrack,https://megaphone.link/BUZ2650957033
+26,Episode 26: Stay In Your Lane (with Dr. Adrienne Keene),9/29/15,Adrienne Keene,n/a,n/a,n/a,n/a,n/a,people with tattoos,"Stay in your land, stop swervin",https://megaphone.link/BUZ5348339817
+27,"Episode 27: No New Friends, My Squirrel Dude (with Alexis Wilkinson)",10/6/15,Alexis Wilkinson,n/a,joke,a dead frog,n/a,n/a,Ross dress for less,immigrant kids,https://megaphone.link/BUZ8028335804
+28,"Episode 28: Madam Secretary, What's Good? (with Hillary Clinton)",10/11/15,Hillary Clinton,n/a,n/a,n/a,n/a,n/a,cast of Hamilton,The Good Wife,https://megaphone.link/BUZ2877965716
+29,Episode 29: What's On Your Reparations Tab? (with Ta-Nehisi Coates),10/20/15,Ta-Nehisi Coates,n/a,n/a,n/a,n/a,n/a,nachos,puzzles,https://megaphone.link/BUZ9916130607
+30,Episode 30: Frimfram Fittlesworth (with Lena Dunham),10/27/15,Lena Dunham,n/a,n/a,n/a,n/a,n/a,ice water,BoJack Horseman,https://megaphone.link/BUZ9177246148
+shot_4,Shot #4: You Are Beautiful,11/3/15,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,https://megaphone.link/BUZ2199768352
+31,Episode 31: You Gon' Get This Blackness (with Shani O. Hilton),11/10/15,Shani Hilton,n/a,joke,three wishes,n/a,n/a,wallets,Dear Sugar,https://megaphone.link/BUZ8544496647
+32,Episode 32: The Yum Center (with Melissa Harris-Perry),11/17/15,Melissa Harris-Perry,n/a,n/a,n/a,n/a,n/a,good gynos,Jane the Virgin,https://megaphone.link/BUZ2090252075
+shot_5,Shot #5: Space Turkey,11/24/15,n/a,n/a,joke,turkeys,n/a,n/a,n/a,n/a,https://megaphone.link/BUZ6157410941
+33,Episode 33: Pick A Slay (with Uzo Aduba),12/1/15,Uzo Aduba,n/a,n/a,n/a,Y,cover letters,the holidays,soup,https://megaphone.link/BUZ5014099921
+34,Episode 34: The Most Introverted Sasha Fierce (with Aparna Nancherla),12/8/15,Aparna Nancherla,n/a,n/a,n/a,n/a,n/a,Poorly Drawn Lines,Facebook babies,https://megaphone.link/BUZ2461843107
+shot_6,Shot #6: Yung Hieronymus,12/15/15,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,https://megaphone.link/BUZ1757900915
+35,Episode 35: Heben & Tracy's Kwanzaa Spectacular,12/22/15,Stacy-Marie Ishmael,Gene Demby,joke,"(I don't remember, but it was a good one)",Y,n/a,Charlie Brown / Franklin,ice cream cakes,https://megaphone.link/BUZ1359047206
+shot_7,Shot #7: Blackation,12/29/15,Blackation,n/a,n/a,n/a,n/a,n/a,n/a,n/a,https://megaphone.link/BUZ9383847530
+36,Episode 36: U Mad? (with Margaret Cho),1/5/16,Margaret Cho,n/a,n/a,n/a,n/a,n/a,cheese,Emeli Sande - Full of Wonder,https://megaphone.link/BUZ4175564017
+37,Episode 37: The Room Where It Happens (with Valerie Jarrett),1/10/16,Valerie Jarrett,n/a,n/a,n/a,n/a,n/a,true crime podcasts,Bow Down/Flawless,https://megaphone.link/BUZ9282194379
+38,Episode 38: Let Black Girls Be Funny (with Janelle James),1/19/16,Janelle James,n/a,n/a,n/a,Y,LinkedIn,Settlers of Catan,Stephen Colbert / magazines,https://megaphone.link/BUZ2761176440
+39,Episode 39: The Betrayer of the Patriarchy (with Anil Dash),1/26/16,Anil Dash,n/a,n/a,n/a,n/a,n/a,people who take meds,fake eyelashes,https://megaphone.link/BUZ8413050398
+40,Episode 40: Blacker History Month (with Marlon Wayans),2/2/16,Marlon Wayans,n/a,n/a,n/a,n/a,n/a,Donny Hathaway,braids,https://megaphone.link/BUZ2390559668
+41,"Episode 41: To Be Young, Gifted and Black (with Hannibal Buress)",2/9/16,Hannibal Buress,n/a,n/a,n/a,n/a,n/a,Lorraine Hansberry,Arthur,https://megaphone.link/BUZ2126534589
+42,Episode 42: Fried Chicken Is A Battleground (with Wyatt Cenac),2/16/16,Wyatt Cenac,n/a,n/a,n/a,n/a,n/a,fried chicken,archivists,https://megaphone.link/BUZ3523446661
+43,Episode 43: A Gumbo of Afrofuturism (with Vann R. Newkirk II),2/23/16,Vann Newkirk II,n/a,n/a,n/a,n/a,n/a,lady who crashed own funeral,the Proud Family,https://megaphone.link/BUZ3523446661
+44,Episode 44: Mommy's Side Piece (with Eugene Mirman & John Roberts),3/1/16,Eugene Mirman,John Roberts,n/a,n/a,Y,internships,friends,projectors,https://megaphone.link/BUZ9420404990
+45,Episode 45: Practical Tactical Brilliance (with Lin-Manuel Miranda),3/8/16,Lin-Manuel Miranda,n/a,n/a,n/a,n/a,n/a,brussels sprouts,Dormtainment,https://megaphone.link/BUZ6447452163
+46,Episode 46: Challenging & Unpredictable (with Melissa Harris-Perry),3/15/16,Melissa Harris-Perry,n/a,n/a,n/a,n/a,n/a,good rum,Ludacris,https://megaphone.link/BUZ9380263772
+47,Episode 47: Don't @ Me (with Bim Adewunmi),3/22/16,Bim Adewunmi,n/a,n/a,n/a,n/a,n/a,gospel music,bread,https://megaphone.link/BUZ6300831951
+48,"Episode 48: Revolutions Are Hard, Eyeliner Is Hard (with Maryam Al-Khawaja)",3/29/16,Maryam Al-Khawaja,n/a,joke,a bank robber,n/a,n/a,Al Sharpton,Lorde,https://megaphone.link/BUZ4697179555
+49,Episode 49: Our First Year,4/5/16,n/a,n/a,n/a,n/a,n/a,n/a,Julia Furlan,"the ""why"" Vine",https://megaphone.link/BUZ2533375935
+50,Episode 50: A Cat Named Toussaint (with Wendell Pierce),4/12/16,Wendell Pierce,n/a,n/a,n/a,n/a,n/a,Guy on a Buffalo,Allen Iverson,https://megaphone.link/BUZ9816794712
+51,Episode 51: Keep Yo' Heart (with Queen Latifah),4/19/16,Queen Latifah,n/a,n/a,n/a,n/a,n/a,Case File,Well-designed bathroom stalls,https://megaphone.link/BUZ4406465347
+52,Episode 52: Government Sanctioned Turn Up (with Daveed Diggs),4/26/16,Daveed Diggs,n/a,n/a,n/a,Y,mistakes,B.Ford,the Hamilton book,https://megaphone.link/BUZ3124777224
+53,Episode 53: I Am... Lola LaFway (with Nichole Perkins),5/3/16,Nichole Perkins,n/a,n/a,n/a,n/a,n/a,chicken liver mousse,Girlfriends / UPN,https://megaphone.link/BUZ6758997088
+54,Episode 54: Tin Foil & Rabbit Ears (with Padma Lakshmi),5/10/16,Padma Lakshmi,n/a,n/a,n/a,n/a,n/a,The Wayans Brothers,MoMA film dept,https://megaphone.link/BUZ5093667615
+55,Episode 55: #1000BlackGirlBooks (with Marley Dias),5/17/16,Marley Dias,n/a,n/a,n/a,n/a,n/a,Chowder,Spongebob,https://megaphone.link/BUZ8366644515
+56,Episode 56: Another Girlfriend (with Call Your Girlfriend),5/24/16,Another Girlfriend,n/a,n/a,n/a,n/a,n/a,Carl Thomas,safe black girl spaces to acknowledge pain,https://megaphone.link/BUZ8381009802
+57,Episode 57: She's So Glossy (with Jenny Zhang),5/31/16,Jenny Zhang,n/a,n/a,n/a,n/a,n/a,Ken Burns,The Noonday Demon: An Atlas of Depression,https://megaphone.link/BUZ5944961225
+58,Episode 58: The Job of Pettiness (with Ashley Ford),6/7/16,Ashley Ford,n/a,n/a,n/a,Y,perceived inequalities,quiche,the ends of sliced bread,https://megaphone.link/BUZ9117470594
+59,Episode 59: May She Forever Reign,6/14/16,Sylvia Obell,n/a,n/a,n/a,n/a,n/a,ice,making your bed,https://megaphone.link/BUZ3553676543
+60,Episode 60: Down With Sporks (LIVE - with Tunde Olaniran),6/21/16,Tunde Olaniran,n/a,n/a,n/a,Y,n/a,grapefruit spoon,A Goofy Movie,https://megaphone.link/BUZ9784282739
+61,Episode 61: The Greatest (with Claressa Shields),6/28/16,Claressa Shields,n/a,n/a,n/a,n/a,n/a,Donwill,Fre Shavocado,https://megaphone.link/BUZ4929019724
+63,Episode 63: Heben's Husband (with Jaime Camil),7/26/16,Jaime Camil,n/a,n/a,n/a,n/a,n/a,anger (ref Lemonade),practical gift giving,https://megaphone.link/BUZ6283176341
+62,Episode 62: Put Your Mask On First (with Tichina Arnold),8/2/16,Tichina Arnold,n/a,n/a,n/a,n/a,n/a,J. Davey,Sylvia: Kim K,https://megaphone.link/BUZ3965244005
+64,Episode 64: Live In Philly (with Joaquin Castro),8/2/16,Joaquin Castro,n/a,n/a,n/a,n/a,n/a,n/a,n/a,https://megaphone.link/BUZ9112963548
+65,Episode 65: Is Your Shiny Suit Alright? (with Aisha Harris),8/9/16,Black Film episode,n/a,n/a,n/a,n/a,n/a,thai iced tea,Bim: Mark's and Spenser,https://megaphone.link/BUZ7605303261
+66,Episode 66: Chardon(n)egro (with Brittany Luse),8/30/16,Brittany Luse,n/a,joke,(eep! I forget),n/a,n/a,State Fairs,Hannah: Ethiopian food,https://megaphone.link/BUZ7315581250
+67,Episode 67: What A Treat (with Nicole Byer),9/6/16,Nicole Byer,n/a,n/a,n/a,n/a,n/a,Bim,Bim: lipstick,https://megaphone.link/BUZ4049772025
+68,Episode 68: Two Dollars and a Paperclip (with Ava DuVernay),9/13/16,Ava DuVernay,n/a,n/a,n/a,n/a,n/a,n/a,Essence: black women,https://megaphone.link/BUZ3389174708
+shot_8,"Baby, I Know I'm Funny",9/19/16,Nicole Byer On Stage,n/a,n/a,n/a,n/a,n/a,n/a,n/a,https://megaphone.link/BUZ9894006746
+69,Episode 69: The Life-Changing Magic of Listening to Rachel (with Rachel Wilkerson Miller),9/27/16,Rachel Miller,n/a,n/a,n/a,n/a,n/a,My Favorite Murder,Rachel: her dentist,https://megaphone.link/BUZ9527565315
+70,Episode 70: Keeping People Safe (with Dr. Carl Hart),10/11/16,Carl Hart,n/a,n/a,n/a,n/a,n/a,n/a,n/a,https://megaphone.link/BUZ8830883750
+71,Episode 71: Burn,15-Nov,Burn,n/a,n/a,n/a,n/a,n/a,n/a,n/a,https://megaphone.link/BUZ9530457816
+72,Episode 72: Water Protectors and Fear Allerton,22-Nov,Adrienne Keene,n/a,n/a,n/a,n/a,n/a,"With MHP: Joe Biden, Harry Connick Jr, Solange/Beyonce, Wake Forest Center where MHP teaches",,https://megaphone.link/BUZ4351292884
+73,"Episode 73: New Studio, Who Dis (with Janet Mock)",5-Dec,Janet Mock,n/a,n/a,n/a,n/a,n/a,Miles Davis,n/a,https://megaphone.link/BUZ1141764882
+74,Episode 74: Have You Looked At You Today?,14-Dec,n/a,n/a,n/a,n/a,n/a,n/a,Drugstore hair products,Fuck it up Kenneth,https://megaphone.link/BUZ1624726252
+75,Episode 75: Citizen's Arrest,12/21/16,n/a,n/a,n/a,n/a,n/a,n/a,Pod-squad,Tracy,https://megaphone.link/BUZ2086127564
+76,Episode 76: Vinegar & Honey (with Susan Rice),12/28/16,Susan Rice,n/a,n/a,n/a,n/a,n/a,Pill forms of liquid medicine,Tracy,https://megaphone.link/BUZ9949299415
+77,Episode 77: 2017 Can't Tell Us Shit,1/4/17,n/a,n/a,n/a,n/a,n/a,n/a,Childish Gambino,babies,https://megaphone.link/BUZ4588536340
+78,Episode 78: They Didn't Expect Me (with Kim Drew),1/18/17,Kim Drew,n/a,n/a,n/a,n/a,n/a,Eeyore,Making Oprah podcast,https://megaphone.link/BUZ5992045151
+79,Episode 79: Pour One Out for Elmo (with Joy Reid),1/25/17,Joy Reid,n/a,n/a,n/a,n/a,n/a,Homemade cocktails,Chasing Cameron,https://megaphone.link/BUZ7142138349
+80,Episode 80: A Beautiful Way To Resist,2/1/17,n/a,n/a,n/a,n/a,n/a,n/a,Taking her shoes off,Bruno Mars' Finesse,https://megaphone.link/BUZ8347487376
+81,Episode 81: Y'all's Parents Was Nasty (with Kelly Rowland),2/15/17,Kelly Rowland,n/a,n/a,n/a,n/a,n/a,Straight Fuckin by The Transitions,"Me, Myself and I by Beyonce",https://megaphone.link/BUZ9133256090
+82,Episode 82: Another Round's Blacker History Month LIVE,2/22/17,Blacker History Month,n/a,n/a,n/a,n/a,n/a,Black Girl Magic/Cashawn Thompson,weed,https://megaphone.link/BUZ2547775727
+83,Episode 83: Incognegro (with Jordan Peele),3/1/17,Jordan Peele,n/a,n/a,n/a,n/a,n/a,ANTI by Rihanna,The Life Changing Magic of Tidying Up (your white people),https://megaphone.link/BUZ1178518069
+84,Episode 84: shETHER (with Remy Ma),3/8/17,Remy Ma,n/a,n/a,n/a,n/a,n/a,n/a,n/a,https://megaphone.link/BUZ1392277579
+85,Episode 85: The Same Stuff as Stars (with Amanda Nguyen),3/15/17,Amanda Nguyen,n/a,n/a,n/a,n/a,n/a,Jamie Foxx Show,Bars that let you get pizza delivered,https://megaphone.link/BUZ4901085402
+shot_9,Shot #9: Members Only,3/22/17,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,https://megaphone.link/BUZ7718538566
+86,Episode 86: The Spicy Double Down (with Lizzo),4/5/17,Lizzo,n/a,joke,"...hmm. I forget, but it was a good one",n/a,n/a,match books,Tickled documentary,https://megaphone.link/BUZ6940029491
+87,Episode 87: The Original Bad and Boujee (with Karyn Parsons),4/12/17,Karyn Parsons,n/a,n/a,n/a,n/a,n/a,Albert Samaha and things he likes/loves,Tracy's Snapchat,https://megaphone.link/BUZ7129694015
+88,Episode 88: I Got Indian In My Family,4/19/17,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,https://megaphone.link/BUZ1543881636
+89,Episode 89: Sister Girl Bonds (with Dr. Kimberle Crenshaw),4/26/17,Kimberle Crenshaw,n/a,n/a,n/a,n/a,n/a,Tonight by XSCAPE,Twinsters documentary,https://megaphone.link/BUZ6016746492
+shot_10,Over That Rainbow (with Morris Day),5/3/17,Morris Day,n/a,n/a,n/a,n/a,n/a,n/a,n/a,https://megaphone.link/BUZ4332546207
+90,Episode 90: Bigots Have No Sense of Graphic Design (with Negin Farsad),5/17/17,Negin Farsad,n/a,n/a,n/a,n/a,n/a,n/a,n/a,https://megaphone.link/BUZ4189678880
+91,Episode 91: Mary-Fake and Ashy (with The Lucas Bros),5/24/17,The Lucas Bros,n/a,n/a,n/a,n/a,n/a,n/a,n/a,https://megaphone.link/BUZ1254467906
+92,Episode 92: Sliding in on a Shrimp Sandwich (with Marcus Samuelsson),31-May,Marcus Samuelsson,n/a,n/a,n/a,n/a,n/a,n/a,n/a,https://megaphone.link/BUZ7294348955
+93,Episode 93: Find Your Cackle (with Doreen St. Felix and Durga Chew-Bose),6/7/17,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,https://megaphone.link/BUZ9106081018
+shot_11,"Nah, Ceebs (with Tkay Maidza)",6/21/17,Tkay Maidza,n/a,n/a,n/a,n/a,n/a,n/a,n/a,https://megaphone.link/BUZ8366274166
+94,Episode 94: Another Round LIVE in Chicago!,6/28/17,Eve Ewing,n/a,n/a,n/a,n/a,n/a,n/a,n/a,https://megaphone.link/BUZ4562921474
+95,Episode 95: No Stone Left Unturnt (with Jonny Sun),7/5/17,Jonny Sun,n/a,n/a,n/a,n/a,n/a,n/a,n/a,https://megaphone.link/BUZ6014915942
+96,Episode 96: Trap Improv (with Sasheer Zamata),7/12/17,Sasheer Zamata,n/a,n/a,n/a,n/a,n/a,n/a,n/a,https://megaphone.link/BUZ6631689547
+97,Episode 97: Ding Dong Ding-a-ling (with Matt Bellassai),7/19/17,Matt Bellassai,n/a,n/a,n/a,n/a,n/a,n/a,n/a,https://megaphone.link/BUZ7884988694
+98,Episode 98: TK,TK,TK,TK,TK,TK,TK,TK,TK,TK,TK
